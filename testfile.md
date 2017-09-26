@@ -1,4 +1,3 @@
 # INTESTAZIONE BANALE
 
-Testo altrettanto banale
-
+Questo è un documento per il Master MSL
