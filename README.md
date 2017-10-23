@@ -1,2 +1,2 @@
 # sandbox
-Sandbox per esperimenti
+Sandbox for experiments
